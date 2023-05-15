@@ -1,0 +1,68 @@
+a {
+    text-decoration: none;
+}
+
+ul,ol {
+    list-style: none;
+}
+
+body {
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+
+
+.header-logo {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 1.23;
+    color: #95E1D3;
+}
+
+.header-link {
+    font-size: 14px;
+    line-height: 1.21;
+    color: #95E1D3;
+}
+
+.header-link:hover {
+    color: #F38181 ;
+}
+
+.services-info {
+    font-family: 'Kaushan Script';
+    font-size: 24px;
+    line-height: 1.46;
+    color: #333333;
+
+}
+
+.services-headline {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 1.23;
+    font-variant: all-small-caps;
+    color: #333333;
+}
+
+.services-title {
+    font-size: 14px;
+    line-height: 1.21;
+    font-variant: small-caps;
+    color: #333333;
+}
+
+.services-text {
+    font-family: 'Roboto';
+    font-size: 15px;
+    line-height: 1.47;
+    color: #B6B6B6;
+
+}
+
+
+
+
+
+
+
