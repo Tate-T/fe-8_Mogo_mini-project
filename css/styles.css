@@ -60,6 +60,36 @@ body {
 
 }
 
+.team-title {
+    font-family: Kaushan Script;
+font-size: 24px;
+line-height: 1.45;
+letter-spacing: 0em;
+text-align: left;
+color: #333333;
+
+}
+
+.team-headline {
+font-size: 30px;
+font-weight: 700;
+line-height: 1.2;
+letter-spacing: 0em;
+text-align: left;
+color: #333333;
+font-variant: all-small-caps;
+
+}
+
+.team-text {
+    font-family: Roboto;
+font-size: 15px;
+line-height: 1.2;
+letter-spacing: 0em;
+text-align: center;
+color: #b6b6b6;
+}
+
 
 
 
