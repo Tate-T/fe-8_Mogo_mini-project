@@ -81,7 +81,18 @@ text-align: center;
 color: #b6b6b6;
 }
 
-
+.header{
+    padding-top: 17px;
+}
+.heder-container{
+    display: flex;
+    justify-content: space-between;
+}
+.header-list{
+    display: flex;
+    gap: 55px;
+    align-items: center;
+}
 
 
 
