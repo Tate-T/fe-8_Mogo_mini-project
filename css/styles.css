@@ -93,6 +93,50 @@ color: #b6b6b6;
     gap: 55px;
     align-items: center;
 }
+.services{
+    padding-top:68px ;
+}
+
+.services-info{
+    text-align: center;
+}
+.services-headline{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 109px;
+}
+.services-list{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 73px;
+    row-gap:100px ;
+    justify-content: center;
+}
+.services-item{
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+.services-title{
+    margin-bottom: 20px;
+}
+}
+.services-text{
+    width: 275px;
+}
+.services-img{
+    width: 37px;
+    height: 37px;
+    margin-right: 18px;
+}
+
+
+
+
+
+
+
+
 
 
 
